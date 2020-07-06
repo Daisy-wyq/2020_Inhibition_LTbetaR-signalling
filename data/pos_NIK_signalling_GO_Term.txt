@@ -1,0 +1,92 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1890773	Actn4	actinin alpha 4	7		positive regulation of NIK/NF-kappaB signaling			ISO	O43707 	J:164563 	
+MGI:893592	Ager	advanced glycosylation end product-specific receptor	17		positive regulation of NIK/NF-kappaB signaling			ISO	Q15109 	J:164563 	
+MGI:2446630	Ago1	argonaute RISC catalytic subunit 1	4		positive regulation of NIK/NF-kappaB signaling	is a part of cellular response to virus		IMP		J:233964 	
+MGI:2446634	Ago3	argonaute RISC catalytic subunit 3	4		positive regulation of NIK/NF-kappaB signaling	is a part of cellular response to virus		IMP		J:233964 	
+MGI:87963	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	8		activation of NF-kappaB-inducing kinase activity	regulates a function/process that happens in metanephros		IDA		J:148250 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		positive regulation of NIK/NF-kappaB signaling			ISO	P05067 	J:164563 	
+MGI:1914695	C1qtnf4	C1q and tumor necrosis factor related protein 4	2		positive regulation of NIK/NF-kappaB signaling			ISO	Q9BXJ3 	J:164563 	
+MGI:88252	Calr	calreticulin	8		positive regulation of NIK/NF-kappaB signaling			IMP		J:218494 	
+MGI:2146012	Card10	caspase recruitment domain family, member 10	15		activation of NF-kappaB-inducing kinase activity			ISO	Q9BWT7 	J:164563 	
+MGI:2146012	Card10	caspase recruitment domain family, member 10	15		activation of NF-kappaB-inducing kinase activity			ISS	Q9BWT7 	J:114026 	
+MGI:1346316	Ccl19	chemokine (C-C motif) ligand 19	4		positive regulation of NIK/NF-kappaB signaling			ISO	Q99731 	J:164563 	
+MGI:88318	Cd14	CD14 antigen	18		positive regulation of NIK/NF-kappaB signaling			IBA	PTN001636475 	J:265628 	
+MGI:88318	Cd14	CD14 antigen	18		positive regulation of NIK/NF-kappaB signaling			ISO	P08571 	J:164563 	
+MGI:1340899	Chil1	chitinase-like 1	1		activation of NF-kappaB-inducing kinase activity			IDA		J:180536 	
+MGI:1915363	Cops8	COP9 signalosome subunit 8	1		activation of NF-kappaB-inducing kinase activity			ISO	Q99627 	J:164563 	
+MGI:1098280	Crebbp	CREB binding protein	16		positive regulation of NIK/NF-kappaB signaling			ISO	RGD:2401 	J:155856 	
+MGI:103064	Ddx3x	DEAD box helicase 3, X-linked	X		positive regulation of NIK/NF-kappaB signaling			ISO	O00571 	J:164563 	
+MGI:1195272	Eda	ectodysplasin-A	X		positive regulation of NIK/NF-kappaB signaling			IBA	PTN001032096 	J:265628 	
+MGI:1195272	Eda	ectodysplasin-A	X		positive regulation of NIK/NF-kappaB signaling			IDA		J:105968 	
+MGI:1343498	Edar	ectodysplasin-A receptor	10		positive regulation of NIK/NF-kappaB signaling			IDA		J:105968 	
+MGI:1931001	Edaradd	EDAR (ectodysplasin-A receptor)-associated death domain	13		positive regulation of NIK/NF-kappaB signaling			ISO	RGD:1564010 	J:155856 	
+MGI:95283	Edn1	endothelin 1	13		positive regulation of NIK/NF-kappaB signaling			ISO	RGD:2532 	J:155856 	
+MGI:95294	Egfr	epidermal growth factor receptor	11		positive regulation of NIK/NF-kappaB signaling			ISO	P00533 	J:164563 	
+MGI:1353449	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	17		positive regulation of NIK/NF-kappaB signaling			IMP		J:196269 	
+MGI:1276116	Ep300	E1A binding protein p300	15		positive regulation of NIK/NF-kappaB signaling			ISO	Q09472 	J:164563 	
+MGI:2135625	Glrx	glutaredoxin	13		positive regulation of NIK/NF-kappaB signaling			ISO	RGD:70951 	J:155856 	
+MGI:1344337	Grem1	gremlin 1, DAN family BMP antagonist	2		positive regulation of NIK/NF-kappaB signaling			IDA		J:138423 	
+MGI:2159682	Havcr2	hepatitis A virus cellular receptor 2	11		positive regulation of NIK/NF-kappaB signaling			IDA		J:127314 	
+MGI:96113	Hmgb1	high mobility group box 1	5		positive regulation of NIK/NF-kappaB signaling			IBA	PTN002672476 	J:265628 	
+MGI:96113	Hmgb1	high mobility group box 1	5		positive regulation of NIK/NF-kappaB signaling			IDA		J:233938 	
+MGI:1916567	Hmgb4	high-mobility group box 4	4		positive regulation of NIK/NF-kappaB signaling			IBA	PTN002672476 	J:265628 	
+MGI:1338074	Ikbkg	inhibitor of kappaB kinase gamma	X		activation of NF-kappaB-inducing kinase activity			IDA		J:87000 	
+MGI:96543	Il1b	interleukin 1 beta	2		positive regulation of NIK/NF-kappaB signaling			ISO	P01584 	J:164563 	
+MGI:107936	Il18	interleukin 18	9		positive regulation of NIK/NF-kappaB signaling	regulates a function/process that happens in T-helper 1 cell		IDA		J:70298 	
+MGI:105383	Il18r1	interleukin 18 receptor 1	1		positive regulation of NIK/NF-kappaB signaling	regulates a function/process that happens in T-helper 1 cell		IMP	MGI:2136765 	J:70298 	
+MGI:1195267	Ilk	integrin linked kinase	7		positive regulation of NIK/NF-kappaB signaling			ISO	Q13418 	J:164563 	
+MGI:107420	Irak1	interleukin-1 receptor-associated kinase 1	X		activation of NF-kappaB-inducing kinase activity			ISO	P51617 	J:164563 	
+MGI:107420	Irak1	interleukin-1 receptor-associated kinase 1	X		positive regulation of NIK/NF-kappaB signaling			ISO	P51617 	J:164563 	
+MGI:2429603	Irak2	interleukin-1 receptor-associated kinase 2	6	NOT	activation of NF-kappaB-inducing kinase activity			IDA		J:79614 	
+MGI:1195263	Lims1	LIM and senescent cell antigen-like domains 1	10		positive regulation of NIK/NF-kappaB signaling			ISO	P48059 	J:164563 	
+MGI:2140219	Lrrc19	leucine rich repeat containing 19	4		positive regulation of NIK/NF-kappaB signaling			IBA	PTN002553285 	J:265628 	
+MGI:2140219	Lrrc19	leucine rich repeat containing 19	4		positive regulation of NIK/NF-kappaB signaling			IDA		J:153543 	
+MGI:2140219	Lrrc19	leucine rich repeat containing 19	4		positive regulation of NIK/NF-kappaB signaling			ISO	Q9H756 	J:153543 	
+MGI:2445027	Malt1	MALT1 paracaspase	18		activation of NF-kappaB-inducing kinase activity			ISO	Q9UDY8 	J:164563 	
+MGI:96918	Mas1	MAS1 oncogene	17		activation of NF-kappaB-inducing kinase activity			IMP	MGI:2158808 	J:148250 	
+MGI:1202395	Mmp8	matrix metallopeptidase 8	9		positive regulation of NIK/NF-kappaB signaling	is a part of positive regulation of microglial cell activation,is a part of cellular response to lipopolysaccharide		IMP		J:265613 	
+MGI:1859333	Nfat5	nuclear factor of activated T cells 5	8		positive regulation of NIK/NF-kappaB signaling			ISO	O94916 	J:164563 	
+MGI:2676630	Nlrp12	NLR family, pyrin domain containing 12	7		positive regulation of NIK/NF-kappaB signaling			ISO	P59046 	J:164563 	
+MGI:1341839	Nod1	nucleotide-binding oligomerization domain containing 1	6		positive regulation of NIK/NF-kappaB signaling			ISO	Q9Y239 	J:164563 	
+MGI:2429397	Nod2	nucleotide-binding oligomerization domain containing 2	8		positive regulation of NIK/NF-kappaB signaling	regulates a function/process that happens in macrophage,happens in macrophage		IMP	MGI:3529594 	J:178691 	
+MGI:2429397	Nod2	nucleotide-binding oligomerization domain containing 2	8		positive regulation of NIK/NF-kappaB signaling			ISO	Q9HC29 	J:164563 	
+MGI:99459	Nr3c2	nuclear receptor subfamily 3, group C, member 2	8		positive regulation of NIK/NF-kappaB signaling			ISO	P08235 	J:164563 	
+MGI:107490	Pdcd4	programmed cell death 4	19		positive regulation of NIK/NF-kappaB signaling			ISO	Q53EL6 	J:164563 	
+MGI:1277098	Ptp4a3	protein tyrosine phosphatase 4a3	15		positive regulation of NIK/NF-kappaB signaling			ISO	O75365 	J:164563 	
+MGI:1344372	Rbck1	RanBP-type and C3HC4-type zinc finger containing 1	2		positive regulation of NIK/NF-kappaB signaling			IMP		J:158069 	
+MGI:2685397	Rc3h1	RING CCCH (C3H) domains 1	1		positive regulation of NIK/NF-kappaB signaling	happens in T cell		IDA		J:196136 	
+MGI:2442789	Rc3h2	ring finger and CCCH-type zinc finger domains 2	2		positive regulation of NIK/NF-kappaB signaling	happens in T cell		IDA		J:196136 	
+MGI:103290	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19		positive regulation of NIK/NF-kappaB signaling			ISO	Q04206 	J:164563 	
+MGI:1096342	Rhoa	ras homolog family member A	9		positive regulation of NIK/NF-kappaB signaling			ISO	P61586 	J:164563 	
+MGI:1350917	Rps3	ribosomal protein S3	7		positive regulation of NIK/NF-kappaB signaling			ISO	P23396 	J:164563 	
+MGI:2158417	Rtkn2	rhotekin 2	10		positive regulation of NIK/NF-kappaB signaling			ISO	Q8IZC4 	J:164563 	
+MGI:1917347	Sash1	SAM and SH3 domain containing 1	10		positive regulation of NIK/NF-kappaB signaling			IBA	PTN000959214 	J:265628 	
+MGI:1917347	Sash1	SAM and SH3 domain containing 1	10		positive regulation of NIK/NF-kappaB signaling			ISO	O94885 	J:205449 	
+MGI:1927578	Smpd3	sphingomyelin phosphodiesterase 3, neutral	8		positive regulation of NIK/NF-kappaB signaling			ISO	RGD:619754 	J:155856 	
+MGI:1316649	Sphk1	sphingosine kinase 1	11		positive regulation of NIK/NF-kappaB signaling			ISO	Q9NYA1 	J:164563 	
+MGI:1916318	Tcim	transcriptional and immune response regulator	8		positive regulation of NIK/NF-kappaB signaling			ISO	Q9NR00 	J:164563 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		positive regulation of NIK/NF-kappaB signaling			ISO	Q9NYB0 	J:164563 	
+MGI:2152213	Tirap	toll-interleukin 1 receptor (TIR) domain-containing adaptor protein	9		activation of NF-kappaB-inducing kinase activity			ISO	P58753 	J:164563 	
+MGI:1341295	Tlr1	toll-like receptor 1	5		activation of NF-kappaB-inducing kinase activity			NAS		J:103395 	
+MGI:1346060	Tlr2	toll-like receptor 2	3		positive regulation of NIK/NF-kappaB signaling	happens in macrophage,regulates a function/process that happens in macrophage		IMP	MGI:2674036 	J:178691 	
+MGI:1346060	Tlr2	toll-like receptor 2	3		positive regulation of NIK/NF-kappaB signaling			ISO	O60603 	J:164563 	
+MGI:2156367	Tlr3	toll-like receptor 3	8		positive regulation of NIK/NF-kappaB signaling			ISO	O15455 	J:164563 	
+MGI:96824	Tlr4	toll-like receptor 4	4		activation of NF-kappaB-inducing kinase activity			NAS		J:114045 	
+MGI:96824	Tlr4	toll-like receptor 4	4		positive regulation of NIK/NF-kappaB signaling			ISO	O00206 	J:164563 	
+MGI:2176882	Tlr7	toll-like receptor 7	X		positive regulation of NIK/NF-kappaB signaling			ISO	Q9NYK1 	J:164563 	
+MGI:1932389	Tlr9	toll-like receptor 9	9		positive regulation of NIK/NF-kappaB signaling			ISO	Q9NR96 	J:164563 	
+MGI:104798	Tnf	tumor necrosis factor	17		positive regulation of NIK/NF-kappaB signaling			IMP		J:175244 	
+MGI:104798	Tnf	tumor necrosis factor	17		positive regulation of NIK/NF-kappaB signaling			ISO	P01375 	J:164563 	
+MGI:1355317	Tnfsf14	tumor necrosis factor (ligand) superfamily, member 14	17		positive regulation of NIK/NF-kappaB signaling			ISO	O43557 	J:164563 	
+MGI:2180140	Tnfsf15	tumor necrosis factor (ligand) superfamily, member 15	4		activation of NF-kappaB-inducing kinase activity			ISO	O95150 	J:75557 	
+MGI:109200	Tradd	TNFRSF1A-associated via death domain	8		positive regulation of NIK/NF-kappaB signaling			ISO	Q15628 	J:164563 	
+MGI:101835	Traf2	TNF receptor-associated factor 2	2		activation of NF-kappaB-inducing kinase activity			ISO	Q12933 	J:164563 	
+MGI:1202880	Traf4	TNF receptor associated factor 4	11		activation of NF-kappaB-inducing kinase activity			IEA	IPR027138 IPR037307 	J:72247 	
+MGI:108072	Traf6	TNF receptor-associated factor 6	2		activation of NF-kappaB-inducing kinase activity			ISO	Q9Y4K3 	J:164563 	
+MGI:108072	Traf6	TNF receptor-associated factor 6	2		positive regulation of NIK/NF-kappaB signaling			ISO	Q9Y4K3 	J:164563 	
+MGI:1913150	Trem2	triggering receptor expressed on myeloid cells 2	17		positive regulation of NIK/NF-kappaB signaling			IMP		J:273509 	
+MGI:1931835	Trim44	tripartite motif-containing 44	2		positive regulation of NIK/NF-kappaB signaling			ISO	Q96DX7 	J:164563 	
+MGI:1343458	Trip6	thyroid hormone receptor interactor 6	5		positive regulation of NIK/NF-kappaB signaling			IBA	PTN002794720 	J:265628 	
+MGI:1343458	Trip6	thyroid hormone receptor interactor 6	5		positive regulation of NIK/NF-kappaB signaling			ISO	Q15654 	J:164563 	
+MGI:104854	Zfp91	zinc finger protein 91	19		activation of NF-kappaB-inducing kinase activity			ISO	Q96JP5 	J:164563 	
+
